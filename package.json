@@ -1,20 +1,20 @@
 {
-  "name": "whatsapp-bot",
+  "name": "Plasma",
   "version": "2.0.0",
   "description": "Whatsapp Bot - Node Js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ArugaZ",
+  "author": "Vicky",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/vickyvastav/botvicky.git"
   },
   "bugs": {
-    "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
+    "url": "https://github.com/vickyvastav/botvicky/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/vickyvastav/botvicky",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
